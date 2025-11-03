@@ -1,0 +1,17 @@
+azure-functions>=1.18.0
+azure-durable-functions>=1.2.9
+azure-identity>=1.15.0
+azure-storage-blob>=12.19.0
+azure-data-tables>=12.5.0
+azure-search-documents>=11.4.0
+msgraph-sdk>=1.0.0
+openai>=1.12.0
+PyMuPDF>=1.23.0
+python-docx>=1.1.0
+python-pptx>=0.6.23
+pandas>=2.2.0
+openpyxl>=3.1.2
+langchain>=0.1.0
+tiktoken>=0.6.0
+pytz>=2024.1
+aiohttp>=3.9.0
