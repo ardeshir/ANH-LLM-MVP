@@ -1,7 +1,6 @@
-## 4. FINAL PRODUCT CONSIDERATIONS
+## FINAL PRODUCT CONSIDERATIONS
 
 ### Volatility Elements & Future Adaptations
-```
 ┌──────────────────────────────────────────────────────────────────┐
 │                   FINAL PRODUCT ARCHITECTURE                     │
 │              (Assumptions & Dependencies)                        │

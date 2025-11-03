@@ -1,13 +1,15 @@
 ### API Versioning Strategy
 
 # API versioning strategy
+```
 @app.post("/api/v1/search")  # Current
 @app.post("/api/v2/search")  # Future with breaking changes
+
+```
 
 # Maintain v1 for 6-12 months
 # Provide migration guide
 # Deprecation warnings in response headers
-```
 
 **Benefits:**
 - **Decoupling:** UI and backend evolve independently
@@ -16,7 +18,6 @@
 - **Testing:** API contract testing without UI
 - **Documentation:** OpenAPI/Swagger auto-generated
 
----
 
 ## 7. RISK MITIGATION MATRIX
 
@@ -96,7 +97,7 @@
 ## 10. APPENDIX: CODE REPOSITORIES
 
 ### Recommended Project Structure
-```
+
 nutrition-optimizer-mvp/
 ├── infrastructure/
 │   ├── provision_resources.py
