@@ -98,6 +98,7 @@
 
 ### Recommended Project Structure
 
+```text
 nutrition-optimizer-mvp/
 ├── infrastructure/
 │   ├── provision_resources.py
@@ -136,3 +137,4 @@ nutrition-optimizer-mvp/
 │   ├── DEPLOYMENT.md
 │   └── USER_GUIDE.md
 └── README.md
+```
